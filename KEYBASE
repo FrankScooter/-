@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am deezno on github.
+  * I am deezno (https://keybase.io/deezno) on keybase.
+  * I have a public key ASDrlX3B61kr_PxH2onI0PQOy7oBk1glWXUvJbHns-csQQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c995273535544bb6c6887909f87689e43e12772977ac1602dfd183364be9ad2c0a",
+      "host": "keybase.io",
+      "kid": "0120eb957dc1eb592bfcfc47da89c8d0f40ecbba0193582559752f25b1e7b3e72c410a",
+      "uid": "c0ea243d123c71e9cb0e9e91d080ed19",
+      "username": "deezno"
+    },
+    "merkle_root": {
+      "ctime": 1569303157,
+      "hash": "b13ca8af9684bdcd6df0d154f5c2d37bd3cf7cc5f64a5887d2f05229c423f833dd14a2bf5d69704f66a76d57123221905c871b3885b9b93f5c1bf837bbd5b32f",
+      "hash_meta": "27ebd8ea891526fc445a4fd99631fbb2c962d85938f9bbfd615270b43b4e0f2b",
+      "seqno": 7715354
+    },
+    "service": {
+      "entropy": "vIZsEd6E25evN/Lrty3NN9W3",
+      "name": "github",
+      "username": "deezno"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569303172,
+  "expire_in": 504576000,
+  "prev": "d2afedc65e300cf6187e110785f790112428acdac3a84c85ce0c968602f80fed",
+  "seqno": 16,
+  "tag": "signature"
+}
+```
+
+with the key [ASDrlX3B61kr_PxH2onI0PQOy7oBk1glWXUvJbHns-csQQo](https://keybase.io/deezno), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg65V9wetZK/z8R9qJyND0Dsu6AZNYJVl1LyWx57PnLEEKp3BheWxvYWTESpcCEMQg0q/txl4wDPYYfhEHhfeQESQorNrDqEyFzgyWhgL4D+3EIPYYyNeW1rHKeUxXSrnye7sqcCJf7pOEOVJIqKnMQHG8AgHCo3NpZ8RAiwcawANgaKVhU//Vm++HXKHZn6UYSnR3xcOVtZV/M3JOc4HRi/jyR9czU9c4pfvvTQpU7y1m7yOqaue+6xsaDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGlAJSYI4vHEe5QjVT/JIqZIblYiFhB8mIDaYdjZdskuo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/deezno
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id deezno
+```
